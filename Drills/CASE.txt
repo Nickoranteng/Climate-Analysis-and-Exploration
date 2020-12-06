@@ -18,7 +18,8 @@ when animal_name = 'Minnie Mouse' then 'Mouse'
 when animal_name = 'Donald duck'  then 'Duck'
 
 else unknown 
-end  [corrected_species)] 
+end  [corrected_species)]
+from Animal Table
 
 
 
