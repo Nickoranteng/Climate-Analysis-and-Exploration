@@ -17,8 +17,6 @@ I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To 
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
-* Design a Flask API based on the queries that  have just developed.
-
 
 
 # Programming Languages 
@@ -31,9 +29,9 @@ I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To 
 
 * Matplotlib
 
-* API 
 
-* JSON
+
+
 
 # Resources
 
