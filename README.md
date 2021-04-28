@@ -27,7 +27,7 @@ I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To 
 
 * SQLAlchemy
 
-* Pandas
+* Sqlite
 
 * Matplotlib
 
@@ -35,7 +35,9 @@ I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To 
 
 * JSON
 
+# Resources
 
+# Screen Shots
 
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals.
 * <img width="478" alt="daily-normals" src="https://user-images.githubusercontent.com/71161293/110713800-876a3f80-81d0-11eb-91f6-7478b52f8734.png">
