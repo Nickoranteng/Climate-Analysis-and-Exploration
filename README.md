@@ -3,7 +3,7 @@ I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To 
 
 
 
-### Project Description
+# Project Description
 
 * Design a query to retrieve the last 12 months of precipitation data.
 
