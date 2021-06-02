@@ -29,6 +29,10 @@ I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To 
 
 * Matplotlib
 
+* API
+
+* Pandas
+
 
 
 
