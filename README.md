@@ -37,7 +37,10 @@ I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To 
 
 
 
-# Resources
+# Data Source
+* hawaii_stations.csv
+* hawaii_measurements.csv
+* hawaii.sqlite
 
 # Screen Shots
 
